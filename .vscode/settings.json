@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.asm": "8051",
+        "portmacro.h": "c"
+    }
+}
